@@ -1,1 +1,1 @@
--- on update
+print('on update')
